@@ -1,6 +1,9 @@
 # podman で　VSCのdev container 
 https://blog.kinto-technologies.com/posts/2022-12-10-VSCodeDevContainer/ をベース
 
+https://github.com/refrain62/typescript_blueberry_book
+の内容を移植
+
 ## 6.を実行する前にファイルの調整
 devcontainer.json ファイルの最後のroot操作を有効に
 ```
