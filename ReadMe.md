@@ -15,5 +15,5 @@ devcontainer.json ファイルの最後のroot操作を有効に
 ```
 $ cd ./practice/src
 $ npx tsc
-$  node ../dist/2.1/index.js
+$  node ../dist/2/2.1/index.js
 ```
