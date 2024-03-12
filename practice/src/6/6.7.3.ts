@@ -24,8 +24,8 @@
 }
 {
   // ...配列型を２回使っているのでコンパイルエラー
-  type T1 = [number, ...String[], number, ...string[]]
-  type T2 = [number, ...string[], ...string[], string]
+  // type T1 = [number, ...String[], number, ...string[]]
+  // type T2 = [number, ...string[], ...string[], string]
   // オプショナルな要素を ...配列型 よりも後ろで使っているのでエラー
   // type T3 = [number, ...string[], number?]
 
